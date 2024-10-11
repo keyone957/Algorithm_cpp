@@ -1,3 +1,15 @@
+# Visual Studio 관련 파일 무시
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.db.*
+*.ipch
+*.opendb
+*.vsidx
+*.pdb
 # Prerequisites
 *.d
 
