@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="boj1439.cpp" />
-    <ClCompile Include="c++_Algorithm.cpp" />
+    <ClCompile Include="boj1668.cpp" />
     <ClCompile Include="lastwords.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
