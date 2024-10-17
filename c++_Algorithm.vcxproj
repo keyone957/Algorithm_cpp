@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="boj1439.cpp" />
     <ClCompile Include="c++_Algorithm.cpp" />
     <ClCompile Include="lastwords.cpp" />
   </ItemGroup>
