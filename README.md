@@ -7,3 +7,5 @@ https://school.programmers.co.kr/learn/courses/30/lessons/12981<br>
 https://www.acmicpc.net/problem/1439<br>
 10/17<br>
 https://www.acmicpc.net/problem/1668<br>
+10/31<br>
+https://school.programmers.co.kr/learn/courses/30/lessons/136798<br>

@@ -129,7 +129,10 @@
   <ItemGroup>
     <ClCompile Include="boj1439.cpp" />
     <ClCompile Include="boj1668.cpp" />
+    <ClCompile Include="FindKim.cpp" />
     <ClCompile Include="lastwords.cpp" />
+    <ClCompile Include="SecretCodeBetweenTwo.cpp" />
+    <ClCompile Include="WeaponAttack.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
