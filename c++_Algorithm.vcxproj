@@ -127,8 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="boj 1546.cpp" />
     <ClCompile Include="babbling_2.cpp" />
-    <ClCompile Include="boj11720.cpp" />
+    <ClCompile Include="boj11720.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="boj1439.cpp" />
     <ClCompile Include="boj1668.cpp" />
     <ClCompile Include="Collatz.cpp" />
