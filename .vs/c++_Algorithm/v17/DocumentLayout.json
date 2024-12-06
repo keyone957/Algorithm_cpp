@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5354436C-0E34-4C16-AF10-8E9005B625AC}|c\u002B\u002B_Algorithm.vcxproj|C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj2018.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5354436C-0E34-4C16-AF10-8E9005B625AC}|c\u002B\u002B_Algorithm.vcxproj|solutionrelative:boj2018.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5354436C-0E34-4C16-AF10-8E9005B625AC}|c\u002B\u002B_Algorithm.vcxproj|C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj11660.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5354436C-0E34-4C16-AF10-8E9005B625AC}|c\u002B\u002B_Algorithm.vcxproj|solutionrelative:boj11660.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -91,19 +95,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "boj2018.cpp",
+              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj2018.cpp",
+              "RelativeDocumentMoniker": "boj2018.cpp",
+              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj2018.cpp",
+              "RelativeToolTip": "boj2018.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T06:08:38.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "boj11660.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj11660.cpp",
               "RelativeDocumentMoniker": "boj11660.cpp",
               "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj11660.cpp",
               "RelativeToolTip": "boj11660.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-04T10:57:03.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "boj11720.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj11720.cpp",
               "RelativeDocumentMoniker": "boj11720.cpp",
@@ -115,20 +132,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "boj11659.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj11659.cpp",
               "RelativeDocumentMoniker": "boj11659.cpp",
               "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj11659.cpp",
               "RelativeToolTip": "boj11659.cpp",
-              "ViewState": "AQIAABkAAAAAAAAAAAAcwCsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-02T09:45:35.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "babbling_2.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\babbling_2.cpp",
               "RelativeDocumentMoniker": "babbling_2.cpp",
@@ -140,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WeaponAttack.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\WeaponAttack.cpp",
               "RelativeDocumentMoniker": "WeaponAttack.cpp",
@@ -152,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SecretCodeBetweenTwo.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\SecretCodeBetweenTwo.cpp",
               "RelativeDocumentMoniker": "SecretCodeBetweenTwo.cpp",
@@ -164,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "boj1439.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj1439.cpp",
               "RelativeDocumentMoniker": "boj1439.cpp",
@@ -176,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "boj1668.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj1668.cpp",
               "RelativeDocumentMoniker": "boj1668.cpp",
@@ -188,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Collatz.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\Collatz.cpp",
               "RelativeDocumentMoniker": "Collatz.cpp",
@@ -200,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "boj 1546.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj 1546.cpp",
               "RelativeDocumentMoniker": "boj 1546.cpp",
@@ -212,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "\uC74C\uC591\uB354\uD558\uAE30.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\\uC74C\uC591\uB354\uD558\uAE30.cpp",
               "RelativeDocumentMoniker": "\uC74C\uC591\uB354\uD558\uAE30.cpp",
@@ -224,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "parenthesis_rotaion.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\parenthesis_rotaion.cpp",
               "RelativeDocumentMoniker": "parenthesis_rotaion.cpp",
@@ -236,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "\uD560\uC778\uD589\uC0AC.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\\uD560\uC778\uD589\uC0AC.cpp",
               "RelativeDocumentMoniker": "\uD560\uC778\uD589\uC0AC.cpp",
@@ -248,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "FindKim.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\FindKim.cpp",
               "RelativeDocumentMoniker": "FindKim.cpp",
@@ -260,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "lastwords.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\lastwords.cpp",
               "RelativeDocumentMoniker": "lastwords.cpp",
@@ -272,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "numberToString.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\numberToString.cpp",
               "RelativeDocumentMoniker": "numberToString.cpp",
@@ -284,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "LastWord.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\LastWord.cpp",
               "RelativeDocumentMoniker": "LastWord.cpp",
@@ -296,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Stock_Price.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\Stock_Price.cpp",
               "RelativeDocumentMoniker": "Stock_Price.cpp",
@@ -308,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "stockprice.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\stockprice.cpp",
               "RelativeDocumentMoniker": "stockprice.cpp",
