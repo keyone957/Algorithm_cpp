@@ -33,6 +33,9 @@ https://www.acmicpc.net/problem/2018<br>
 https://www.acmicpc.net/problem/2003<br>
 12/09<br>
 https://www.acmicpc.net/problem/1940<br>
+12/10<br>
+https://www.acmicpc.net/problem/1253<br>
+
 
 
 
