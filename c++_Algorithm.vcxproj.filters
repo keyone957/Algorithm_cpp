@@ -69,7 +69,10 @@
     <ClCompile Include="boj1940.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="boj 25497.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2 3986.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
