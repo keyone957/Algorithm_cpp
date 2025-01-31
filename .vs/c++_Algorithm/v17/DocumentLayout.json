@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5354436C-0E34-4C16-AF10-8E9005B625AC}|c\u002B\u002B_Algorithm.vcxproj|C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj2161.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5354436C-0E34-4C16-AF10-8E9005B625AC}|c\u002B\u002B_Algorithm.vcxproj|solutionrelative:boj2161.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj 2164.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:boj 2164.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5354436C-0E34-4C16-AF10-8E9005B625AC}|c\u002B\u002B_Algorithm.vcxproj|C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj17298.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5354436C-0E34-4C16-AF10-8E9005B625AC}|c\u002B\u002B_Algorithm.vcxproj|solutionrelative:boj17298.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -71,19 +79,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "boj2161.cpp",
+              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj2161.cpp",
+              "RelativeDocumentMoniker": "boj2161.cpp",
+              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj2161.cpp",
+              "RelativeToolTip": "boj2161.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T12:40:24.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "boj 2164.cpp",
+              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj 2164.cpp",
+              "RelativeDocumentMoniker": "boj 2164.cpp",
+              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj 2164.cpp",
+              "RelativeToolTip": "boj 2164.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T12:34:45.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "boj17298.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj17298.cpp",
               "RelativeDocumentMoniker": "boj17298.cpp",
               "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj17298.cpp",
               "RelativeToolTip": "boj17298.cpp",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBoAAAAmAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-31T06:11:03.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "boj2003.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj2003.cpp",
               "RelativeDocumentMoniker": "boj2003.cpp",
@@ -91,12 +125,11 @@
               "RelativeToolTip": "boj2003.cpp",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-28T10:44:24.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:44:24.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SecretCodeBetweenTwo.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\SecretCodeBetweenTwo.cpp",
               "RelativeDocumentMoniker": "SecretCodeBetweenTwo.cpp",
@@ -104,12 +137,11 @@
               "RelativeToolTip": "SecretCodeBetweenTwo.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-28T10:44:17.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:44:17.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "WeaponAttack.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\WeaponAttack.cpp",
               "RelativeDocumentMoniker": "WeaponAttack.cpp",
@@ -117,12 +149,11 @@
               "RelativeToolTip": "WeaponAttack.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-28T10:44:14.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:44:14.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "lastwords.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\lastwords.cpp",
               "RelativeDocumentMoniker": "lastwords.cpp",
@@ -130,12 +161,11 @@
               "RelativeToolTip": "lastwords.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-28T10:44:10.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:44:10.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FindKim.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\FindKim.cpp",
               "RelativeDocumentMoniker": "FindKim.cpp",
@@ -143,12 +173,11 @@
               "RelativeToolTip": "FindKim.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-28T10:44:07.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:44:07.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "boj11660.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj11660.cpp",
               "RelativeDocumentMoniker": "boj11660.cpp",
@@ -156,12 +185,11 @@
               "RelativeToolTip": "boj11660.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-28T10:44:00.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:44:00.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "boj11899.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj11899.cpp",
               "RelativeDocumentMoniker": "boj11899.cpp",
@@ -169,12 +197,11 @@
               "RelativeToolTip": "boj11899.cpp",
               "ViewState": "AQIAABQAAAAAAAAAAAAAwCcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-28T10:39:01.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:39:01.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "babbling_2.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\babbling_2.cpp",
               "RelativeDocumentMoniker": "babbling_2.cpp",
@@ -182,12 +209,11 @@
               "RelativeToolTip": "babbling_2.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-28T10:36:36.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:36:36.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "BOJ2 3986.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\BOJ2 3986.cpp",
               "RelativeDocumentMoniker": "BOJ2 3986.cpp",
@@ -195,12 +221,11 @@
               "RelativeToolTip": "BOJ2 3986.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T09:15:03.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T09:15:03.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Collatz.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\Collatz.cpp",
               "RelativeDocumentMoniker": "Collatz.cpp",
@@ -208,12 +233,11 @@
               "RelativeToolTip": "Collatz.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T09:14:48.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T09:14:48.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "boj 9012.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj 9012.cpp",
               "RelativeDocumentMoniker": "boj 9012.cpp",
@@ -221,12 +245,11 @@
               "RelativeToolTip": "boj 9012.cpp",
               "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T08:40:32.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T08:40:32.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "boj10773.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj10773.cpp",
               "RelativeDocumentMoniker": "boj10773.cpp",
@@ -234,12 +257,11 @@
               "RelativeToolTip": "boj10773.cpp",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T08:40:17.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T08:40:17.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "boj1668.cpp",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algorithm_cpp\\boj1668.cpp",
               "RelativeDocumentMoniker": "boj1668.cpp",
@@ -247,8 +269,7 @@
               "RelativeToolTip": "boj1668.cpp",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T08:39:32.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T08:39:32.398Z"
             }
           ]
         }
