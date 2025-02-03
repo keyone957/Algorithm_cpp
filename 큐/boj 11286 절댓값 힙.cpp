@@ -14,8 +14,8 @@ struct compare
 		if (absA == absB)
 		{
 			return a > b;
-		}//만약에 두개의 절댓값이 같다면 음수 우선으로 정렬되게 함
-		return absA > absB;//우선 절댓값 기준으로 정렬 되도록 하되
+		}//2.만약에 두개의 절댓값이 같다면 음수 우선으로 정렬되게 함
+		return absA > absB;//1.우선 절댓값 기준으로 정렬 되도록 하되
 	}
 };//==> 핵심 
 // 우선순위 큐를 사용하여 사용자 정의 조건 구조체를 만들어줌.
@@ -26,10 +26,11 @@ int main()
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);
-	//priority_queue<int> qArr;  // - >  priority_queue<int, vector<int>, less<int>> pq;
+	//priority_queue<int> qArr;  // ==  priority_queue<int, vector<int>, less<int>> pq;
 	//가장 큰값이 top에 있음
-	priority_queue<int, vector<int>, compare> qArr;
+	//priority_queue<int,vector<int>,greater<int>> qArr
 	//가장 작은 값이 top에 있음
+	priority_queue<int, vector<int>, compare> qArr;
 	vector<int>resultArr;
 	int count;
 	cin >> count;	

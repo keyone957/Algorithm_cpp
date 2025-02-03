@@ -133,6 +133,7 @@
     <ClCompile Include="boj 1158 요세푸스.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="boj 1377 버블정렬 프로그램1.cpp" />
     <ClCompile Include="boj 1546.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
