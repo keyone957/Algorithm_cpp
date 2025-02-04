@@ -102,5 +102,8 @@
     <ClCompile Include="boj 1377 버블정렬 프로그램1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="boj 1427 내림차순으로 자릿수 정렬하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
