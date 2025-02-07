@@ -24,10 +24,7 @@
     <ClCompile Include="template2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 3273 두수의 합.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 0406 에디터.cpp">
+    <ClCompile Include="boj 5397 키로거.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
