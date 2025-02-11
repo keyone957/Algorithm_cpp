@@ -24,10 +24,10 @@
     <ClCompile Include="template2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 2178 미로탐색.cpp">
+    <ClCompile Include="코드 작성요령.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="코드 작성요령.cpp">
+    <ClCompile Include="boj 7576 토마토.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
