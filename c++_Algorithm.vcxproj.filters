@@ -27,7 +27,7 @@
     <ClCompile Include="코드 작성요령.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 1012 유기농 배추.cpp">
+    <ClCompile Include="boj 4963 섬의갯수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
