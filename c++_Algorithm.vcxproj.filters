@@ -30,7 +30,10 @@
     <ClCompile Include="boj 4179 불!.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 15654 N과M(5).cpp">
+    <ClCompile Include="boj 15655 N과 M(6).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="boj 11656 N과M (7).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
