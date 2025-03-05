@@ -27,14 +27,19 @@ void func(int k)
 		cout << "\n";
 		return;
 	}
+	int temp = 0;
 	for (int i = 0; i < n; i++)
 	{
-		if (inputArr[i] >= arr[k - 1] || k == 0)
+		if (!isUsed[i] &&temp != inputArr[i])
 		{
 			arr[k] = inputArr[i];
+			temp = arr[i];
+			isUsed[i] = 1;
 			func(k + 1);
+			isUsed[i] = 0;
 		}
 	}
+
 }
 int main()
 {
@@ -50,5 +55,4 @@ int main()
 	}
 	sort(inputArr.begin(), inputArr.end());
 	func(0);
-	
 }
