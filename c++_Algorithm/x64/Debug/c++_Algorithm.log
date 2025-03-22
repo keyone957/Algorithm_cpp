@@ -1,3 +1,2 @@
-﻿  boj 1759 암호만들기.cpp
-C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1759 암호만들기.cpp(40,5): error C2065: 'ss': 선언되지 않은 식별자입니다.
-C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1759 암호만들기.cpp(41,4): error C2146: 구문 오류: ';'이(가) 'cout' 식별자 앞에 없습니다.
+﻿  boj 1182 부분수열의 합.cpp
+  c++_Algorithm.vcxproj -> C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\x64\Debug\c++_Algorithm.exe
