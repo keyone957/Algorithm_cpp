@@ -1,4 +1,4 @@
-#include <algorithm>
+ï»¿#include <algorithm>
 #include <deque>
 #include <functional>
 #include <iostream>
@@ -21,7 +21,8 @@ int main()
 	long long d[1500001];
 	long long t[1500001];
 	long long p[1500001];
-	//d[i] -->i³¯¿¡ ½ÃÀÛÇØ¼­ n±îÁö ¹ú ¼ö ÀÖ´Â ÃÖ´ë ¼öÀÔ Å×ÀÌºí
+	//ê·¼ë°ì™œ ì´ê±° ë°°ì—´ë“¤ ì „ì—­ìœ¼ë¡œ ë§ê³  int mainì•ˆì— ë„£ìœ¼ë‹ˆê¹Œ ë‹µì´ ë§žì„ê¹Œ.....
+	//d[i] -->ië‚ ì— ì‹œìž‘í•´ì„œ nê¹Œì§€ ë²Œ ìˆ˜ ìžˆëŠ” ìµœëŒ€ ìˆ˜ìž… í…Œì´ë¸”
 	cin >> n;
 	for (int i = 1; i <= n; i++)
 	{
@@ -29,23 +30,23 @@ int main()
 	}
 	for (int i = n; i > 0; i--)
 	{
-		if (i + t[i] > n + 1)//¸¸¾à¿¡ i¹øÂ°ºÎÅÍ ½ÃÀÛÇß´Âµ¥ Åð»çÀÏ ±îÁö ¾È³¡³¯¶§
+		if (i + t[i] > n + 1)//ë§Œì•½ì— ië²ˆì§¸ë¶€í„° ì‹œìž‘í–ˆëŠ”ë° í‡´ì‚¬ì¼ ê¹Œì§€ ì•ˆëë‚ ë•Œ
 		{
 			d[i] = d[i + 1];
 			/*
-			iÀÏºÎÅÍ t[i]ÀÏ °É¸®´Â »ó´ãÀ» ½ÃÀÛÇÏ¸é,
-			Á¾·áÀÏÀÌ i + t[i] - 1ÀÌ¹Ç·Î, ±× ´ÙÀ½ ³¯Àº i + t[i]
-			Åð»çÀÏÀº n+1ÀÏÀÌ±â ¶§¹®¿¡, i + t[i] > n+1 ÀÌ¸é ºÒ°¡´É
+			iì¼ë¶€í„° t[i]ì¼ ê±¸ë¦¬ëŠ” ìƒë‹´ì„ ì‹œìž‘í•˜ë©´,
+			ì¢…ë£Œì¼ì´ i + t[i] - 1ì´ë¯€ë¡œ, ê·¸ ë‹¤ìŒ ë‚ ì€ i + t[i]
+			í‡´ì‚¬ì¼ì€ n+1ì¼ì´ê¸° ë•Œë¬¸ì—, i + t[i] > n+1 ì´ë©´ ë¶ˆê°€ëŠ¥
 			*/
 		}
-		else//Åð»çÀÏ ¾È¿¡ ³¡³¯¶§
+		else//í‡´ì‚¬ì¼ ì•ˆì— ëë‚ ë•Œ
 		{
 			
 			d[i] = max(d[i + 1], p[i] + d[i + t[i]]);
 			/*
-			 1) »ó´ãÀ» °Ç³Ê¶Ù°í ´ÙÀ½ ³¯ºÎÅÍ ¾ò´Â ¼öÀÍ: d[i+1]
-			 2) ¿À´Ã »ó´ãÀ» ÇÏ°í, ³¡³ª´Â ³¯ ´ÙÀ½³¯ºÎÅÍ ¾ò´Â ¼öÀÍ: p[i] + d[i + t[i]]
-			 µÑ Áß Å« °ªÀ» ¼±ÅÃ*/
+			 1) ìƒë‹´ì„ ê±´ë„ˆë›°ê³  ë‹¤ìŒ ë‚ ë¶€í„° ì–»ëŠ” ìˆ˜ìµ: d[i+1]
+			 2) ì˜¤ëŠ˜ ìƒë‹´ì„ í•˜ê³ , ëë‚˜ëŠ” ë‚  ë‹¤ìŒë‚ ë¶€í„° ì–»ëŠ” ìˆ˜ìµ: p[i] + d[i + t[i]]
+			 ë‘˜ ì¤‘ í° ê°’ì„ ì„ íƒ*/
 		}
 	}
 	cout << *max_element(d + 1, d + n + 1);
