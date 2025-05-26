@@ -1,2 +1,3 @@
-﻿  boj 17086 아기상어 2.cpp
+﻿  boj 2075 n번째 큰 수.cpp
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 2075 n번째 큰 수.cpp(49,6): warning C4101: 'answer' :참조되지 않은 지역 변수입니다.
   c++_Algorithm.vcxproj -> C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\x64\Debug\c++_Algorithm.exe
