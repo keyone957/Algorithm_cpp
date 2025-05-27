@@ -39,8 +39,5 @@
     <ClCompile Include="boj 15683 감시.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 2075 n번째 큰 수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
