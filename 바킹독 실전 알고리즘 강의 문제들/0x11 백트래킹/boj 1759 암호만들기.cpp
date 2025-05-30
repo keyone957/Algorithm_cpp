@@ -46,7 +46,7 @@ void func(int k)
 	}
 	for (int i = 0; i < C; i++)
 	{
-		if (!isused[i]&& arr[k - 1] <= input[i])
+		if (!isused[i]&& arr[k - 1] <= input[i])//증가하는 암호. 알파벳 순서
 		{
 			arr[k] = input[i];
 			isused[i] = 1;
