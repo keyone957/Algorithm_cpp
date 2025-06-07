@@ -1,2 +1,17 @@
-﻿  boj 18352 특정거리의 도시 찾기.cpp
-  c++_Algorithm.vcxproj -> C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\x64\Debug\c++_Algorithm.exe
+﻿  boj 1753 최단경로.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(5027,13): error C2100: you cannot dereference an operand of type '_FwdIt'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(5027,13): error C2100:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(5027,13): error C2100:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(5027,13): error C2100:             _FwdIt=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(5027,13): error C2100:         ]
+  (소스 파일 'boj 1753 최단경로.cpp'을(를) 컴파일하는 중)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(5027,13):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1753 최단경로.cpp(76,2):
+  	컴파일되는 함수 템플릿 인스턴스화 'void std::fill<int,int>(const _FwdIt,const _FwdIt,const _Ty &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _FwdIt=int,
+              _Ty=int
+          ]
+  
