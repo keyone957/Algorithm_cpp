@@ -1,17 +1,18 @@
-﻿  boj 1753 최단경로.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(5027,13): error C2100: you cannot dereference an operand of type '_FwdIt'
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(5027,13): error C2100:         with
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(5027,13): error C2100:         [
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(5027,13): error C2100:             _FwdIt=int
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(5027,13): error C2100:         ]
-  (소스 파일 'boj 1753 최단경로.cpp'을(를) 컴파일하는 중)
-  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(5027,13):
-  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
-  	C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1753 최단경로.cpp(76,2):
-  	컴파일되는 함수 템플릿 인스턴스화 'void std::fill<int,int>(const _FwdIt,const _FwdIt,const _Ty &)'에 대한 참조를 확인하세요.
-          with
-          [
-              _FwdIt=int,
-              _Ty=int
-          ]
-  
+﻿  boj 1238 파티.cpp
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(56,30): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(56,30): warning C4244:         with
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(56,30): warning C4244:         [
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(56,30): warning C4244:             _Ty=int
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(56,30): warning C4244:         ]
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(62,46): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(62,46): warning C4244:         with
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(62,46): warning C4244:         [
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(62,46): warning C4244:             _Ty=int
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(62,46): warning C4244:         ]
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(68,38): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(68,38): warning C4244:         with
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(68,38): warning C4244:         [
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(68,38): warning C4244:             _Ty=int
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1238 파티.cpp(68,38): warning C4244:         ]
+  c++_Algorithm.vcxproj -> C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\x64\Debug\c++_Algorithm.exe

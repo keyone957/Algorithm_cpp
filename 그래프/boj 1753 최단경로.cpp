@@ -1,4 +1,4 @@
-﻿#include <algorithm>
+#include <algorithm>
 #include <deque>
 #include <functional>
 #include <iostream>
