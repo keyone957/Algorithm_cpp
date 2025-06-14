@@ -17,7 +17,7 @@ int main()
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);
-	/*/¶ç¾î¾²±â ¹Ş¾Æ¿Ã¶§ °ø¹éÀÖ´Â ¹®ÀÚ¿­ ¹Ş¾Æ¿Ã¶§ 
+	/*/ë„ì–´ì“°ê¸° ë°›ì•„ì˜¬ë•Œ ê³µë°±ìˆëŠ” ë¬¸ìì—´ ë°›ì•„ì˜¬ë•Œ 
 	string s;
 	getline(cin, s);
 	cout << s;
