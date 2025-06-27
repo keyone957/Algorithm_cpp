@@ -71,7 +71,7 @@ int main()
 	}
 	for (int i = 1; i <= N; i++) {
 		sort(linkedArr[i].begin(), linkedArr[i].end());
-	}//Á¤Á¡ ¹øÈ£°¡ ÀÛÀº°ÍÀ» ¸ÕÀú ¹æ¹®ÇÑ´Ù ÇÏ¿´À¸¹Ç·Î ¿À¸§Â÷¼ø Á¤·Ä
+	}//ì •ì  ë²ˆí˜¸ê°€ ìž‘ì€ê²ƒì„ ë¨¼ì € ë°©ë¬¸í•œë‹¤ í•˜ì˜€ìœ¼ë¯€ë¡œ ì˜¤ë¦„ì°¨ìˆœ ì •ë ¬
 	DFS(linkedArr, V);
 	fill(visited.begin(), visited.end(), false);
 	cout << "\n";

@@ -30,9 +30,6 @@
     <ClCompile Include="boj 4179 불!.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 1780 종이의 개수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="boj 9663 n-Queen.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -43,6 +40,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="boj 1753 최단경로.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="boj 1325 효율적인 해킹.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
