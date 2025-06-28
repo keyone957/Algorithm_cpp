@@ -16,19 +16,19 @@ int main()
 {
 	//while (input.find(checkWord) != string::npos)
 	//{
-	//	//cout << input.find(checkWord) << "Ã£À½";
+	//	//cout << input.find(checkWord) << "ì°¾ìŒ";
 	//	int index = input.find(checkWord);
 	//	input = input.erase(index, wordSize);
 	//	count++;
 	//}
 	/*
-		À§¿¡ ¿ø·¡ inputÀ» »èÁ¦ ÇÏ¸é ¾ÈµÇ´Â°Ô ¿¹¿Ü°¡ ÀÖ´Ù.
+		ìœ„ì— ì›ëž˜ inputì„ ì‚­ì œ í•˜ë©´ ì•ˆë˜ëŠ”ê²Œ ì˜ˆì™¸ê°€ ìžˆë‹¤.
 		aabb
 		ab
-		ÀÌ·¯¸é ¸ÇÃ³À½¿¡ ab¸¦ »èÁ¦¸¦ ÇÏ¸é
-		ab°¡ ¶Ç ³²¾Æ¹ö¸²
-		±×·¡¼­ ´äÀÌ 2·Î ³ª¿Í¹ö¸®´Âµ¥ ÀÌ°Ç ¿À´äÀÓ
-		µû¶ó¼­ ¿ø·¡ ¹®ÀÚ¿­À» °Çµå¸®Áö¸»°í index¸¸ ¿Å°Üº¸µµ·ÏÇÔ
+		ì´ëŸ¬ë©´ ë§¨ì²˜ìŒì— abë¥¼ ì‚­ì œë¥¼ í•˜ë©´
+		abê°€ ë˜ ë‚¨ì•„ë²„ë¦¼
+		ê·¸ëž˜ì„œ ë‹µì´ 2ë¡œ ë‚˜ì™€ë²„ë¦¬ëŠ”ë° ì´ê±´ ì˜¤ë‹µìž„
+		ë”°ë¼ì„œ ì›ëž˜ ë¬¸ìžì—´ì„ ê±´ë“œë¦¬ì§€ë§ê³  indexë§Œ ì˜®ê²¨ë³´ë„ë¡í•¨
 	*/
 
 	ios::sync_with_stdio(false);
@@ -47,7 +47,7 @@ int main()
 		pos = temp.find(checkWord);
 		if (pos == string::npos) break;
 		count++;
-		// Ã£Àº À§Ä¡ ´ÙÀ½ºÎÅÍ »õ·Î¿î ºÎºÐ ¹®ÀÚ¿­ »ý¼º
+		// ì°¾ì€ ìœ„ì¹˜ ë‹¤ìŒë¶€í„° ìƒˆë¡œìš´ ë¶€ë¶„ ë¬¸ìžì—´ ìƒì„±
 		temp = temp.substr(pos + wordSize);
 	}
 	cout << count;

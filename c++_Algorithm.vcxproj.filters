@@ -42,7 +42,7 @@
     <ClCompile Include="boj 1753 최단경로.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 1325 효율적인 해킹.cpp">
+    <ClCompile Include="boj 20055 컨베이어 벨트 위의 로봇.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

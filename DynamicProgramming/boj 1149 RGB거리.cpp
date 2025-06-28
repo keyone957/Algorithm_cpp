@@ -12,7 +12,10 @@
 #include <string>
 #include <vector>
 using namespace std;
-int dp[1001][3];
+int dp[1001][3]; 
+// i번째 집까지 칠할 때 비용의 최솟값. 단 [i][0] 집은 빨강
+//                  "                  [i][1] 집은 초록
+//                  "                  [i][2] 집은 파랑
 int R[1001];
 int G[1001];
 int B[1001];
