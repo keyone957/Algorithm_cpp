@@ -39,13 +39,10 @@
     <ClCompile Include="boj 1459 걷기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 1753 최단경로.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="boj 20055 컨베이어 벨트 위의 로봇.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 17276 배열 돌리기.cpp">
+    <ClCompile Include="boj 2304 창고 다각형.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
