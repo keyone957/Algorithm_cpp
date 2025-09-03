@@ -1,2 +1,35 @@
-﻿  boj 7662 이중 우선순위 큐.cpp
+﻿  boj 1916 최소비용 구하기.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(5310,24): warning C4244: '=': 'const _Ty'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(5310,24): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(5310,24): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(5310,24): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(5310,24): warning C4244:         ]
+  (소스 파일 'boj 1916 최소비용 구하기.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(5310,24):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1916 최소비용 구하기.cpp(35,5):
+          컴파일되는 함수 템플릿 인스턴스화 'void std::fill<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,double>(const _FwdIt,const _FwdIt,const double &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=__int64,
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,16): warning C4244: '초기화 중': '_Ty'에서 '_Ty1'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,16): warning C4244:             _Ty=__int64
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,16): warning C4244:             _Ty1=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,16): warning C4244:         ]
+  (소스 파일 'boj 1916 최소비용 구하기.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,16):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1916 최소비용 구하기.cpp(54,34):
+          컴파일되는 함수 템플릿 인스턴스화 'std::pair<int,int>::pair<__int64,int,0>(std::pair<__int64,int> &&) noexcept'에 대한 참조를 확인하세요.
+              C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 1916 최소비용 구하기.cpp(54,24):
+              'main'에서 'std::pair<int,int>::pair'에 대한 첫 번째 참조를 확인하세요.
+  
   c++_Algorithm.vcxproj -> C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\x64\Debug\c++_Algorithm.exe
