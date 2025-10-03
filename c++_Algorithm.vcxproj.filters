@@ -42,9 +42,6 @@
     <ClCompile Include="boj 30469 호반우가 학교에 지각한 이유2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 1992 쿼드트리.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
