@@ -24,4 +24,13 @@ int main()
 	{
 		cin >> numArr[i];
 	}
+    sort(numArr.begin(), numArr.end());
+    int total = 0;
+    int sum = 0;
+    for (int i = 0; i < count; i++)
+    {
+        sum += numArr[i];
+        total += sum;
+    }
+    cout << total;
 }
