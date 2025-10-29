@@ -48,6 +48,9 @@
     <ClCompile Include="boj 1655 가운데를 말해요.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="boj 10159 저울.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
