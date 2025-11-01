@@ -36,12 +36,6 @@
     <ClCompile Include="boj 30469 호반우가 학교에 지각한 이유2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 2467 용액.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 21276 계보 복원가 호석.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="boj 2668 숫자고르기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -49,6 +43,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="boj 10159 저울.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="boj 1449 수리공 항승.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
