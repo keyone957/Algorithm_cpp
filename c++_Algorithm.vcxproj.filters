@@ -63,9 +63,6 @@
     <ClCompile Include="boj 2493 탑.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 2589 보물섬.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />

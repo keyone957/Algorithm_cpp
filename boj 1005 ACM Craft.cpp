@@ -15,6 +15,12 @@
 #include<unordered_map>
 #include<math.h>
 using namespace std;
+/*
+건설 순서 규칙
+
+1
+
+*/
 int n;
 int main()
 {
