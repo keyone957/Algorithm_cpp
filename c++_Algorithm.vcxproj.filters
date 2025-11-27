@@ -42,22 +42,10 @@
     <ClCompile Include="boj 1655 가운데를 말해요.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 10159 저울.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 1865 웜홀.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="boj 1939 중량제한.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="boj 1005 ACM Craft.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 2493 탑.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 21921 블로그.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

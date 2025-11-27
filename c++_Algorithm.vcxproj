@@ -37,7 +37,6 @@
     <ClCompile Include="boj 20055 컨베이어 벨트 위의 로봇.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="boj 1240 노드사이의 거리.cpp" />
     <ClCompile Include="boj 2668 숫자고르기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
