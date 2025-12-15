@@ -1,2 +1,4 @@
-﻿  boj 19237 어른 상어.cpp
+﻿  boj 5427 불.cpp
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 5427 불.cpp(38,21): warning C4101: 'startY' :참조되지 않은 지역 변수입니다.
+C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\boj 5427 불.cpp(38,13): warning C4101: 'startX' :참조되지 않은 지역 변수입니다.
   c++_Algorithm.vcxproj -> C:\Users\keyon\OneDrive\Desktop\잔디심기\Algorithm_cpp\x64\Debug\c++_Algorithm.exe
