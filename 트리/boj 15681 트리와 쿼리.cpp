@@ -28,15 +28,18 @@ q줄에 걸쳐 각 쿼리의 답을 정수 하나로 출력함
 */
 int n, r, q;
 vector<int> adj[100001];
-int parent[100001];
-int count;
-void bfs(int node)
+int countArr[100001];
+bool visited[100001];
+void dfs(int curNode)
 {
-    queue<int> q;
-    q.push(node);
-    while (!q.empty())
+    countArr[curNode] = 1;//일단 자기 자신도 포함을 시켜야함.
+    visited[curNode] = true;//부모로 되돌아가지 않게 하기 위함
+    for (int i = 0; i < adj[curNode].size(); i++)
     {
-
+        int nextNode = adj[curNode][i];
+        if(visited[nextNode]) continue;//방문한 노드는 건너 뛰기.
+        dfs(nextNode);//자식 서브트리까지 들어가서
+        countArr[curNode] += countArr[nextNode];//자식의 서브 트리 크기를 전부 더해서 현재 노드의 서브 트리 크기를 더해줌
     }
 }
 int main()
@@ -45,6 +48,7 @@ int main()
     cin.tie(NULL);
     cout.tie(NULL);
     cin >> n >> r >> q;
+   
     for (int i = 0; i < n - 1; i++)
     {
         int start, end;
@@ -52,5 +56,12 @@ int main()
         adj[start].push_back(end);
         adj[end].push_back(start);
     }
-    
+    dfs(r);
+    for (int i = 0; i < q; i++)
+    {
+        int node;
+        cin >> node;
+        cout << countArr[node] << '\n';
+    }
+
 }
