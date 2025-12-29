@@ -66,6 +66,9 @@
     <ClCompile Include="boj 17144 미세먼지 안녕!.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="boj 17404 RGB거리 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
