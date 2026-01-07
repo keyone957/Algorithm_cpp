@@ -36,9 +36,6 @@
     <ClCompile Include="boj 30469 호반우가 학교에 지각한 이유2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 2668 숫자고르기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="boj 1655 가운데를 말해요.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
