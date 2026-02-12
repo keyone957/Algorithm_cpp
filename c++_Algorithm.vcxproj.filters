@@ -45,9 +45,6 @@
     <ClCompile Include="boj 19236 청소년 상어.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 5427 불.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="boj 1647 도시 분할 계획.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -58,15 +55,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="boj 15565 귀여운 라이언.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 12851 숨바꼭질2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 2156 포도주 시식.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 5430 AC.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="boj 13460 구슬 탈출 2.cpp">
