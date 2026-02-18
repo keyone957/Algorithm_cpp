@@ -24,9 +24,6 @@
     <ClCompile Include="코드 작성요령.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 15683 감시.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="boj 1459 걷기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -64,9 +61,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="boj 9663 N-Queen.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 6603 로또.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
