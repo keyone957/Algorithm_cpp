@@ -66,7 +66,7 @@
     <ClCompile Include="boj 1535 안녕.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 16928 뱀과 사다리 게임.cpp">
+    <ClCompile Include="boj 2661 좋은수열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

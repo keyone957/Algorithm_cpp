@@ -31,7 +31,7 @@
     <ClCompile Include="boj 1655 가운데를 말해요.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="boj 16928 뱀과 사다리 게임.cpp">
+    <ClCompile Include="boj 2661 좋은수열.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="boj 17142 연구소 3.cpp">
