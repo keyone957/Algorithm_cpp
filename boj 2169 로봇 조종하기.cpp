@@ -50,16 +50,37 @@ int main()
     //일단 먼저 첫번째 줄은 갱신시킴
     for (int i = 1; i < n; i++)
     {
-        int leftSum[1001];
-        int rightSum[1001];
-        int up;
-        for (int j = 0; j < m; j++)
+        int leftSum[1001] = {0};
+        int rightSum[1001] = {0};
+        //현재 행에서 왼 오 모든 가치의 합을 임시배열
+
+
+        leftSum[0] = dp[i - 1][0] + board[i][0];
+        rightSum[m - 1] = dp[i - 1][m - 1] + board[i][m - 1];
+        //일단 맨오른쪽과 맨 왼쪽의 값을 먼저 갱신
+        
+        for (int j = 1; j < m; j++)
+        {   //leftsum[j] = i,j에 도착했을때 오른쪽방향에서 왔을때 가능한 최대값
+            /*
+            위 or 왼쪽-> 현재 위치까지 이동
+            이 두값중 큰거
+            */
+            leftSum[j] = max(dp[i - 1][j], leftSum[j - 1])+board[i][j];
+        }
+        for (int a = m-2; a >= 0; a--)
+         //오른쪽 끝에서부터 현재 위치까지 스캔하면서 
+         //배열 갱신
         {
-           
-            //dp[i][j]
+            rightSum[a] = max(dp[i - 1][a], rightSum[a + 1]) + board[i][a];
+        }
+        for (int b = 0; b < m; b++)
+        {
+            int leftRight = max(rightSum[b], leftSum[b]);
+            dp[i][b] = leftRight;
         }
 
     }
     /*int a = max({ 1, 2, 3 });
     cout << a;*/
+    cout << dp[n-1][m-1];
 }
