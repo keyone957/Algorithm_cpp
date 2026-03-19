@@ -31,10 +31,10 @@
     <ClCompile Include="boj 1766 문제집.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="boj 14248 점프 점프.cpp">
+    <ClCompile Include="boj 2493 탑.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="boj 2493 탑.cpp">
+    <ClCompile Include="boj 2637 장난감 조립.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="boj 2661 좋은수열.cpp">
