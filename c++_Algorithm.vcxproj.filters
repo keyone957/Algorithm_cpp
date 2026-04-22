@@ -42,19 +42,10 @@
     <ClCompile Include="boj 1647 도시 분할 계획.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 2169 로봇 조종하기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="프로그래머스 보석 쇼핑.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="boj 15565 귀여운 라이언.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 13460 구슬 탈출 2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 17142 연구소 3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="boj 9663 N-Queen.cpp">
@@ -63,40 +54,10 @@
     <ClCompile Include="boj 1535 안녕.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 2661 좋은수열.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 2668 숫자고르기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 2493 탑.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 1766 문제집.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 2637 장난감 조립.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 12865 평범한 배낭.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 1463 1로 만들기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 14888 연산자 끼워넣기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 5585 거스름돈.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="boj 1781 컵라면.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 1543 문서검색.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boj 1012 유기농 배추.cpp">
+    <ClCompile Include="boj 2961 도영이가 만든 맛있는 음식.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
