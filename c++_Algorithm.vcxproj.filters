@@ -57,7 +57,7 @@
     <ClCompile Include="boj 1781 컵라면.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj 2961 도영이가 만든 맛있는 음식.cpp">
+    <ClCompile Include="boj 2636 치즈.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
